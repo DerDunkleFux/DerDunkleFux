@@ -1,4 +1,4 @@
-Hey there, im DerDunkleFux and I want to be the next pirate king!
+Hey there, im DerDunkleFux and I want to be the next pirate king! 
 💪-I'm trying my best to improve and will be asking mostly stupid stuff, sometimes good I hope.  
 🐍-I've been working with Java, Python, HTML, Javascript, CSS and even though its not a language im including Linux in here  
 🎮-My goal is to make efficient automation scripts and maybe a game in Unity some day.  
